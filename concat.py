@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-dir = "C:/Users/aidan/Desktop/GoaliePredictions"
+dir = "add dir here"
 
 # List to hold individual DataFrames
 dataframes = []
